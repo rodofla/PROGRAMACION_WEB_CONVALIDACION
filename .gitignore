@@ -13,6 +13,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Entornos virtuales
+venv/
+.venv/
+flask/
+flask
+env/
+
 # C extensions
 *.so
 
